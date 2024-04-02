@@ -1,0 +1,7 @@
+{
+  "extends": ["@thasmorato/eslint-config/react"],
+  "rules": {
+    "no-useless-constructor": "off",
+    "@typescript-eslint/no-var-requires": "off"
+  }
+}
